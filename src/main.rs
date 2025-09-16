@@ -20,7 +20,7 @@ fn main() {
         match choice {
             1 => perform_exponential(),
             7 => {
-                println!("THank you for your operation!");
+                println!("Thank you for your operation!");
                 break;
             }
             _ => println!("Invalid choice"),
